@@ -10,7 +10,7 @@ Identificar los elementos de navegacion en la respectiva site.
 
 HISTORIAL:
 -----------
- COLOR:               SIGNIFICADO:
+ COLOR/           SIGNIFICADO:
  ------------------
  - ROJO              -  N. Global.
  - VERDE             -  N. Facetada.
