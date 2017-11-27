@@ -11,11 +11,11 @@ Identificar los elementos de navegacion en la respectiva site.
 HISTORIAL:
 -----------
  COLOR:               SIGNIFICADO:
- ----------------------------------
- - ROJO               N. Global.
- - VERDE              N. Facetada.
- - CELESTE            N. Local.
- - NARANJA            N. Filtrada.
- - MORADO             N. En Linea.
- - AZUL               N. Contetual.
+ ------------------
+ - ROJO              -  N. Global.
+ - VERDE             -  N. Facetada.
+ - CELESTE           -  N. Local.
+ - NARANJA           -  N. Filtrada.
+ - MORADO            -  N. En Linea.
+ - AZUL              -  N. Contetual.
  
